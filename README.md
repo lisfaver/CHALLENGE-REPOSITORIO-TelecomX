@@ -25,6 +25,7 @@ Este proyecto tiene como objetivo analizar el comportamiento de cancelación de 
 ├── src/                      # Funciones auxiliares o scripts Python
 ├── README.md                 # Este archivo
 └── report/                   # Conclusiones y estrategias en PDF o Markdown
+---
 ##📦 Dependencias
 pandas
 
