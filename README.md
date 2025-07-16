@@ -38,6 +38,8 @@ scikit-learn (opcional, si se usa modelado)
 
 numpy
 
+---
+
 ##🧠 Hallazgos clave
 Los contratos mensuales tienen mayor tasa de cancelación.
 
@@ -49,6 +51,8 @@ Mayor tiempo de contrato y gasto total están asociados a menor probabilidad de 
 
 Clientes con cónyuge o dependientes tienden a mantenerse más tiempo.
 
+---
+
 ##💡 Recomendaciones estratégicas
 Incentivar contratos de fidelización.
 
@@ -59,6 +63,8 @@ Promover métodos de pago automáticos.
 Crear campañas específicas para clientes con mayor riesgo de cancelación.
 
 Implementar programas de lealtad basados en antigüedad y gasto.
+
+---
 
 ##❗ Posibles problemas
 Algunos registros tienen valores “Desconocido”; se recomienda limpieza y mejora en la recolección de datos.
