@@ -26,7 +26,7 @@ Este proyecto tiene como objetivo analizar el comportamiento de cancelación de 
 ├── README.md                 # Este archivo
 └── report/                   # Conclusiones y estrategias en PDF o Markdown
 ---
-##📦 Dependencias
+###📦 Dependencias
 pandas
 
 matplotlib
